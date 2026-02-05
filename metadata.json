@@ -1,0 +1,5 @@
+{
+  "name": "Python Microservice Scaffolder",
+  "description": "A professional tool to generate, customize, and visualize a modern Python-based automation microservice structure with Docker, Makefile, and CI/CD support.",
+  "requestFramePermissions": []
+}
